@@ -13,7 +13,7 @@ struct QuestionSetUp {
     let options: [String]
     let correctAnswer: Int
 }
-//Creating the list of different questions using a class, make it easier to add questions as well. 
+//Creating the list of different questions using a class, make it easier to add questions as well.
 class Questions {
     var indexOfSelectedQuestion = 0
     var questionNonRepeat = 0
