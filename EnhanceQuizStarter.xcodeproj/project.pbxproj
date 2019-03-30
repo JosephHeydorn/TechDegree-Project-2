@@ -30,7 +30,7 @@
 		972A72C22056F0E40059EF4A /* GameSound.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = GameSound.wav; sourceTree = "<group>"; };
 		D4848D5C224E17CA0017C320 /* Unit2Correct.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Unit2Correct.wav; sourceTree = "<group>"; };
 		D4848D5E224EDA250017C320 /* Unit2Wrong.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Unit2Wrong.wav; path = "../../../../../../Library/Mobile Documents/com~apple~CloudDocs/.Trash/Unit2Wrong.wav"; sourceTree = "<group>"; };
-		D4848D62224EDA4E0017C320 /* Unit2PlayAgainSounds.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Unit2PlayAgainSounds.wav; path = ../../../../../Unit2PlayAgainSounds.wav; sourceTree = "<group>"; };
+		D4848D62224EDA4E0017C320 /* Unit2PlayAgainSounds.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Unit2PlayAgainSounds.wav; sourceTree = "<group>"; };
 		D4EA8EFE2241AFB300B9972F /* QuizQuestions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizQuestions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
